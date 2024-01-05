@@ -1,1 +1,2 @@
-Git Solo Tutorial Anna Yan
+Git Solo Tutorial Anna Yan 
+Winter 2024
